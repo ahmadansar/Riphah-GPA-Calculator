@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\Riphah GPA Clc\Riphah GPA Clc\bin\Debug\Riphah GPA Clc.exe.config
+C:\Users\User\Desktop\Riphah GPA Clc\Riphah GPA Clc\bin\Debug\Riphah GPA Clc.exe
+C:\Users\User\Desktop\Riphah GPA Clc\Riphah GPA Clc\bin\Debug\Riphah GPA Clc.pdb
+C:\Users\User\Desktop\Riphah GPA Clc\Riphah GPA Clc\obj\Debug\Riphah GPA Clc.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Riphah GPA Clc\Riphah GPA Clc\obj\Debug\Riphah GPA Clc.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\Riphah GPA Clc\Riphah GPA Clc\obj\Debug\Riphah_GPA_Clc.Form1.resources
+C:\Users\User\Desktop\Riphah GPA Clc\Riphah GPA Clc\obj\Debug\Riphah_GPA_Clc.Properties.Resources.resources
+C:\Users\User\Desktop\Riphah GPA Clc\Riphah GPA Clc\obj\Debug\Riphah GPA Clc.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Riphah GPA Clc\Riphah GPA Clc\obj\Debug\Riphah GPA Clc.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Riphah GPA Clc\Riphah GPA Clc\obj\Debug\Riphah GPA Clc.exe
+C:\Users\User\Desktop\Riphah GPA Clc\Riphah GPA Clc\obj\Debug\Riphah GPA Clc.pdb
